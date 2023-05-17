@@ -1,0 +1,36 @@
+_repo: The-silver-key_70478
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lovecraft, H. P. (Howard Phillips)
+    aliases:
+    - Lovecraft, Howard Phillips
+    - Littlewit, Humphrey
+    - Lovecraft, H.P.
+    birthdate: 1890
+    deathdate: 1937
+    gutenberg_agent_id: '34724'
+    url: http://www.gutenberg.org/2009/agents/34724
+    wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
+description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Silver_Key'
+gutenberg_issued: '2023-04-06'
+identifiers:
+  gutenberg: '70478'
+language: en
+pgterms:marc905: 20230303044343lovecraft
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bPopular Fiction Publishing Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Dreams -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The silver key
+url: http://www.gutenberg.org/ebooks/70478
