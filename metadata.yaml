@@ -1,5 +1,8 @@
 _repo: The-silver-key_70478
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70478-h/images/cover.jpg
 creator:
   author:
     agent_name: Lovecraft, H. P. (Howard Phillips)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34724
     wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
 description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Silver_Key'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70478#The-silver-key
 gutenberg_issued: '2023-04-06'
 identifiers:
   gutenberg: '70478'
